@@ -5,7 +5,7 @@
 
 ## Documentation
 
-Check my oficial [***documentation***](https://joaohb07.github.io/documentation/ce/controle_de_estoque/) for more information!
+Check **/documentation** for more information!
 
 ## Installation
 
